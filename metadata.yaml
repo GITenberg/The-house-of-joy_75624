@@ -1,0 +1,62 @@
+_repo: The-house-of-joy_75624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Housman, Lawrence
+    - Bunny, Benjamin
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+description: 'Illustrated by the author.
+
+  Reading ease score: 83.3 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Science-Fiction & Fantasy'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75624'
+  lccn: '02025320'
+language: en
+pgterms:marc904: https://archive.org/details/houseofjoy00housrich/page/n7/mode/2up
+pgterms:marc905: 20210713135846housman
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bKegan Paul Trench Trubner & Co., $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+summary: '"The House of Joy" by Laurence Housman is a collection of fairy tales written
+  in the late 19th century. The stories within explore themes of love, sacrifice,
+  and transformation, set against a backdrop of magical elements and whimsical characters.
+  The opening tale, "The Prince with the Nine Sorrows," features a prince destined
+  to encounter profound sadness due to the mysterious disappearance of his foster-sisters,
+  intricately entwined with his fate.  The beginning of "The House of Joy" introduces
+  readers to the life of a young prince raised far from his royal family, who bears
+  nine sorrows linked to the loss of his foster-sisters. After a foreboding dream,
+  his mother enlists the help of a family fairy, which ultimately leads to the mysterious
+  vanishing of the sisters. As the prince grows, he feels the void of his lost siblings
+  and the weight of his melancholy. Driven by an innate desire to find them, he embarks
+  on a quest, revealing a heartfelt exploration of familial bonds and the intersection
+  of joy and sorrow. The narrative combines elements of fantasy with deep emotional
+  resonance, inviting readers into a rich tapestry of enchanting storytelling. (This
+  is an automatically generated summary.)'
+tableOfContents: The prince with the nine sorrows -- The luck of the roses -- The
+  White King -- The story of the herons -- Syringa -- The traveller's shoes -- The
+  moon-flower -- Happy returns.
+title: The house of joy
+url: http://www.gutenberg.org/ebooks/75624
