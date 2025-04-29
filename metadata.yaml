@@ -1,5 +1,8 @@
 _repo: The-house-of-joy_75624
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75624-h/images/cover.jpg
 creator:
   author:
     agent_name: Housman, Laurence
@@ -14,6 +17,8 @@ creator:
 description: 'Illustrated by the author.
 
   Reading ease score: 83.3 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75624#The-house-of-joy
 gutenberg_bookshelf:
 - 'Browsing: Science-Fiction & Fantasy'
 - 'Browsing: Fiction'
